@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.gifer.com/9uiY.gif" alt="Anime GIF" width="400" />
+  <img src="https://i.pinimg.com/originals/0a/8c/1c/0a8c1c653eec24352d5dfbed3e801f42.gif" alt="Anime GIF" width="400" />
 </p>
 
 <p align="center">I built the doctor directory and fixed a few bugs, mostly Wix-related.</p>
